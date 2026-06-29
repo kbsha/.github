@@ -1,0 +1,181 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=AI+Researcher;Machine+Learning+Engineer;Robotics+Engineer;Cybersecurity+Researcher;Embedded+Systems+Developer;Building+AI+for+Africa" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kbsha&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+# Hi 👋 I'm Kibremoges Fenta
+
+**AI Researcher | Robotics Engineer | Cybersecurity Researcher | Embedded Systems Developer**
+
+I enjoy building intelligent systems that bridge Artificial Intelligence, Robotics, Embedded Electronics, and Cybersecurity. My work focuses on developing scalable AI solutions that solve real-world problems in healthcare, autonomous systems, industrial automation, smart agriculture, and secure cyber-physical systems.
+
+Currently completing an **MSc in Computer Engineering** while actively conducting research in:
+
+• AI-based Intrusion Detection  
+• Intelligent Robotics  
+• Autonomous Navigation  
+• Deep Learning & Reinforcement Learning  
+• Model Predictive Control  
+• Computer Vision  
+• Edge AI & IoT  
+
+---
+
+## 🎓 About Me
+
+**MSc Computer Engineering**
+
+🔬 **Research Areas**
+- Artificial Intelligence & Machine Learning
+- Deep Learning & Computer Vision
+- Cybersecurity & Network Intrusion Detection
+- Robotics & Autonomous Systems
+- Embedded AI & Edge Computing
+- Reinforcement Learning & Intelligent Control Systems
+- Digital Signal Processing
+
+🚀 **Founder** of a Digital & AI Solutions initiative focused on developing software and hardware technologies that address real-world challenges.
+
+🌍 **Passionate** about applying AI to improve healthcare, agriculture, logistics, education, and smart infrastructure across Africa.
+
+📚 **Constantly learning** and publishing research on intelligent systems.
+
+---
+
+## 🛡 Current Research
+
+- 🛡️ AI-powered Cyber Threat Detection
+- 🤖 Multi-Agent Robotics
+- 🚁 Autonomous Drone Coordination
+- 🚗 Intelligent Autonomous Navigation
+- 🧠 Hybrid AI Models
+- ⚡ Edge AI & IoT Security
+- 🔋 Large Scale Battery Management
+- 🏥 AI Medical Devices
+- 📡 Embedded AI Systems
+- 🌾 Precision Agriculture
+- 🏭 Industrial Automation
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,matlab,bash,sql"/>
+
+### AI & ML Frameworks
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+
+**Also experienced with:**
+- Transformers & Hugging Face
+- CNN, RNN, GAN, YOLO
+- Scikit-Learn, XGBoost, LightGBM
+- PyTorch Lightning, ONNX
+
+### Web & Cloud
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,aws,gcp,azure,docker,kubernetes,linux"/>
+
+### Hardware & Embedded
+- **Microcontrollers:** Arduino, ESP32, STM32, Jetson Nano, Jetson Xavier, Raspberry Pi
+- **Design Tools:** KiCad, Altium
+- **Applications:** PCB Design, Sensor Integration, Motor Control
+
+### Cybersecurity
+- Network Security & IDS/IPS
+- Threat Detection & Network Traffic Analysis
+- Tools: Wireshark, Nmap, Metasploit, Suricata, Zeek
+- Malware Detection & Analysis
+
+---
+
+## 🎯 Areas of Expertise
+
+| Domain | Skills |
+|--------|--------|
+| **AI/ML** | Deep Learning, Computer Vision, NLP, Reinforcement Learning |
+| **Robotics** | Autonomous Systems, Control Engineering, Multi-Agent Systems |
+| **Cybersecurity** | Intrusion Detection, Threat Analysis, Network Security |
+| **Embedded Systems** | Edge AI, IoT, Real-time Systems, Sensor Integration |
+| **Data Science** | Signal Processing, Optimization, Data Analysis |
+| **Cloud Computing** | AWS, GCP, Azure, Docker, Kubernetes |
+
+---
+
+## 🚀 Featured Projects
+
+- 🚀 **AI Math Tutor** - Intelligent tutoring system with NLP
+- 🛡️ **AI Intrusion Detection System** - ML-based network threat detection
+- 🤖 **Intelligent Autonomous Robot** - Vision-based autonomous navigation
+- 🚁 **Multi-Drone Coordination** - Swarm robotics & coordination algorithms
+- 📈 **Power Outage Prediction** - Time-series forecasting with deep learning
+- 🧠 **Transformer-based Threat Detection** - Advanced cybersecurity model
+- 🚦 **Intelligent Traffic Management** - AI-driven optimization
+- 🏥 **AI Medical Assistant** - Healthcare AI application
+
+---
+
+## 🏆 Achievements
+
+- 🏆 AI for Good Fellow
+- 🏆 AIMS Researcher
+- 🏆 National Technology Expo Participant
+- 🏆 Published AI Research
+- 🏆 Hackathon Finalist
+- 🏆 Open Source Contributor
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kbsha&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbsha&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kbsha&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kbsha)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/kbsha)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+## 💡 Personal Branding
+
+> **I am Kibremoges Fenta, an AI researcher and Computer Engineer passionate about designing intelligent systems that combine artificial intelligence, robotics, embedded electronics, and cybersecurity. My work spans autonomous systems, AI-driven cyber defense, computer vision, reinforcement learning, IoT, and edge computing, with the goal of building scalable technologies that address real-world challenges in healthcare, logistics, education, agriculture, and smart infrastructure. I am committed to advancing research while transforming innovative ideas into practical solutions that create lasting impact, particularly across Africa.**
+
+---
+
+## 💬 Featured Quote
+
+> "Research is creating what tomorrow will depend on."
+
+> "Engineering AI for real-world impact."
+
+---
+
+## ⭐ Support
+
+If you like my work, consider **starring** my repositories and following my research journey!
+
+---
+
+<p align="center">
+<em>Building the future with AI, one algorithm at a time 🚀</em>
+</p>
