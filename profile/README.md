@@ -10,7 +10,7 @@
 
 # Hi 👋 I'm Kibremoges Fenta
 
-**AI Researcher | Robotics Engineer | Cybersecurity Researcher | Embedded Systems Developer**
+**AI & Robotics Researcher | Computer Engineer | Ethical Hacker & Penetration Tester | Embedded Systems Designer & Developer**
 
 I enjoy building intelligent systems that bridge Artificial Intelligence, Robotics, Embedded Electronics, and Cybersecurity. My work focuses on developing scalable AI solutions that solve real-world problems.
 
@@ -152,11 +152,11 @@ Currently completing an **MSc in Computer Engineering** while actively conductin
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KibremogesFenta)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kibr_infinity_tech)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kb_infinity_tech/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://kibrinfinitytech.netlify.app/)
+[![CEO](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://kibrinfinitytech.netlify.app/)
 [![Research Lab](https://img.shields.io/badge/KB%20Infinity%20Lab-%2300BFFF.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://kibrinfinitytech.netlify.app/kb-infinity-lab-website/)
 [![SoloLearn](https://img.shields.io/badge/SoloLearn-%231E90FF.svg?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/30896701)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/kbsha)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/kibremogesf)
 
 ---
 
