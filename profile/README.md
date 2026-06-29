@@ -10,7 +10,7 @@
 
 # Hi 👋 I'm Kibremoges Fenta
 
-**AI Researcher | Robotics Engineer | Cybersecurity Researcher | Embedded Systems Developer**
+**AI Researcher | Computer Engineer | Cybersecurity Researcher | Embedded Systems Developer**
 
 I enjoy building intelligent systems that bridge Artificial Intelligence, Robotics, Embedded Electronics, and Cybersecurity. My work focuses on developing scalable AI solutions that solve real-world problems in healthcare, autonomous systems, industrial automation, smart agriculture, and secure cyber-physical systems.
 
@@ -55,7 +55,6 @@ Currently completing an **MSc in Computer Engineering** while actively conductin
 - 🚗 Intelligent Autonomous Navigation
 - 🧠 Hybrid AI Models
 - ⚡ Edge AI & IoT Security
-- 🔋 Large Scale Battery Management
 - 🏥 AI Medical Devices
 - 📡 Embedded AI Systems
 - 🌾 Precision Agriculture
