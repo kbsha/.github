@@ -172,6 +172,11 @@ Currently completing an **MSc in Computer Engineering** while actively conductin
 
 > "Engineering AI for real-world impact."
 
+>> "Anything can be Hacked!."
+>> <img width="560" height="351" alt="image" src="https://github.com/user-attachments/assets/ff387ccb-0f7b-40a0-93cf-080ad2b81590" />
+
+
+
 ---
 
 ## ⭐ Support
