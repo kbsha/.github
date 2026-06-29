@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=AI+Researcher;Machine+Learning+Engineer;Robotics+Engineer;Cybersecurity+Researcher;Embedded+Systems+Developer;Building+AI+for+Africa" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=AI+Researcher;Machine+Learning+Engineer;Robotics+Engineer;Cybersecurity+Researcher"/>
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
 
 # Hi 👋 I'm Kibremoges Fenta
 
-**AI Researcher | Computer Engineer | Cybersecurity Researcher | Embedded Systems Developer**
+**AI Researcher | Robotics Engineer | Cybersecurity Researcher | Embedded Systems Developer**
 
-I enjoy building intelligent systems that bridge Artificial Intelligence, Robotics, Embedded Electronics, and Cybersecurity. My work focuses on developing scalable AI solutions that solve real-world problems in healthcare, autonomous systems, industrial automation, smart agriculture, and secure cyber-physical systems.
+I enjoy building intelligent systems that bridge Artificial Intelligence, Robotics, Embedded Electronics, and Cybersecurity. My work focuses on developing scalable AI solutions that solve real-world problems.
 
 Currently completing an **MSc in Computer Engineering** while actively conducting research in:
 
@@ -147,17 +147,22 @@ Currently completing an **MSc in Computer Engineering** while actively conductin
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kbsha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kibremoges-fenta-72723917a/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/KB-Infinity-Tech/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KibremogesFenta)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kibr_infinity_tech)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kb_infinity_tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://kibrinfinitytech.netlify.app/)
+[![Research Lab](https://img.shields.io/badge/KB%20Infinity%20Lab-%2300BFFF.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://kibrinfinitytech.netlify.app/kb-infinity-lab-website/)
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-%231E90FF.svg?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/30896701)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/kbsha)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
 ## 💡 Personal Branding
 
-> **I am Kibremoges Fenta, an AI researcher and Computer Engineer passionate about designing intelligent systems that combine artificial intelligence, robotics, embedded electronics, and cybersecurity. My work spans autonomous systems, AI-driven cyber defense, computer vision, reinforcement learning, IoT, and edge computing, with the goal of building scalable technologies that address real-world challenges in healthcare, logistics, education, agriculture, and smart infrastructure. I am committed to advancing research while transforming innovative ideas into practical solutions that create lasting impact, particularly across Africa.**
+> **I am Kibremoges Fenta, an AI researcher and Computer Engineer passionate about designing intelligent systems that combine artificial intelligence, robotics, embedded electronics, and cybersecurity to solve real-world challenges and create positive impact.**
 
 ---
 
